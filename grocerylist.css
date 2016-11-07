@@ -1,0 +1,24 @@
+#head {
+	border-radius:50px;
+	text-align:center;
+	background-color:gray;
+	font-family:monospace;
+	font-weight:bold;
+}
+
+#grocerylist {
+ font-family:monospace;
+}
+
+#total {
+	color:red;
+}
+input {
+	margin:10px;
+	display:block;
+}
+
+button {
+	margin:10px;
+	display:block;
+}
